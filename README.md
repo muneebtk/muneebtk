@@ -20,6 +20,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EUz90z8JoUNLV39geGyxFx82vNNaGehH/view?usp=sharing](https://drive.google.com/file/d/1EUz90z8JoUNLV39geGyxFx82vNNaGehH/view?usp=sharing)
 
 - ⚡ Fun fact **self taught developer**
+- Portfolio website [https://muneebtk.github.io/portfolio/](https://muneebtk.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
