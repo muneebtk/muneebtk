@@ -13,11 +13,11 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **Python, Django REST API, React JS**
+- 💬 Ask me about **Python, Django REST API, React JS, Pandas, jQuery, Ajax, PSQL**
 
 - 📫 How to reach me **muhammedmuneeb3215@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EUz90z8JoUNLV39geGyxFx82vNNaGehH/view?usp=sharing](https://drive.google.com/file/d/1EUz90z8JoUNLV39geGyxFx82vNNaGehH/view?usp=sharing)
+- 📄 Know about my experiences Resume([https://drive.google.com/file/d/1EUz90z8JoUNLV39geGyxFx82vNNaGehH/view?usp=sharing](https://drive.google.com/file/d/1toXYNfyHkkDuvjnCVx5Ix4EinNidtMDu/view?usp=drive_link))
 
 - ⚡ Fun fact **self taught developer**
 - Portfolio website [https://muneebtk.github.io/portfolio/](https://muneebtk.github.io/portfolio/)
